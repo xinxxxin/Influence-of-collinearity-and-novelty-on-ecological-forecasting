@@ -8,5 +8,5 @@ DOI:
 https://doi.org/10.1111/geb.13793
 
 Citation:
-Chen, X., Liang, Y., & Feng, X. (2023). Influence of model complexity, training collinearity, collinearity shift, predictor novelty and their interactions on ecological forecasting. Global Ecology and Biogeography.
+Chen, X., Liang, Y., & Feng, X. (2023). Influence of model complexity, training collinearity, collinearity shift, predictor novelty and their interactions on ecological forecasting. Global Ecology and Biogeography, 33, 371-384.
 
