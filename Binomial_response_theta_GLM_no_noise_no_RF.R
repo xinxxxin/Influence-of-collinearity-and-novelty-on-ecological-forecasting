@@ -401,7 +401,7 @@ linear_model_3 <- function(vars = c("X1", "X2", "X3"),
   ###################################################################################################################################################################################################################
   ###################################################################################################################################################################################################################
   # RMSE
-  # Date: 03/09/202
+  # Date: 03/09/2022
   # Note: RMSE is not scale-dependent and is related to the scale of original measurement. RSE might be also considered since it is not scale-dependent
   # Change: Change RMSE to RRMSE
   # Note: sum((predict(fitted, as.data.frame(X), type = "response")-as.data.frame(X)$y)^2)/nrow(X) <- mean((predict(fitted, as.data.frame(X), type = "response")-as.data.frame(X)$y)^2)
